@@ -52,4 +52,4 @@ The data cleaning, SQL analysis, and exploratory data analysis have been complet
 
 All notebooks have been tested using Restart and Run All without errors.
 
-Final documentation and GitHub publication are in progress.
+Final documentation and GitHub publication are complete.
